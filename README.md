@@ -1,3 +1,3 @@
 # Deep-Learning
 
-### Logistic Regression model to predict survival on titanic by there Age and Fare
+### Logistic regression model to predict survival on the Titanic by their age and fare
